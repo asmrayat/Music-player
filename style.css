@@ -1,0 +1,22 @@
+.body{
+    background: linear-gradient(to right,#FFCDBA 50%,#D8FFFA 50%);
+}
+.img{
+    margin-top: 40%;
+}
+.txt{
+    margin-top: 10%;
+    
+    
+}
+.txt h1{
+    font-size: 600%;
+    color: rgb(37, 30, 30);
+}
+.musicbtn{
+    margin-top: 23%;
+}
+.musicbtn p{
+    font-size: 200%;
+    color: #ffb79a;
+}
